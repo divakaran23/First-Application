@@ -21,6 +21,7 @@
 		5605076B193D872B00188A3D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5605074D193D872B00188A3D /* UIKit.framework */; };
 		56050773193D872B00188A3D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 56050771193D872B00188A3D /* InfoPlist.strings */; };
 		56050775193D872B00188A3D /* MyFirstApplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 56050774193D872B00188A3D /* MyFirstApplicationTests.m */; };
+		5605077F193D8B4900188A3D /* IMG_1326.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5605077E193D8B4900188A3D /* IMG_1326.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		56050770193D872B00188A3D /* MyFirstApplicationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstApplicationTests-Info.plist"; sourceTree = "<group>"; };
 		56050772193D872B00188A3D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		56050774193D872B00188A3D /* MyFirstApplicationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplicationTests.m; sourceTree = "<group>"; };
+		5605077E193D8B4900188A3D /* IMG_1326.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1326.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		56050750193D872B00188A3D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5605077E193D8B4900188A3D /* IMG_1326.JPG */,
 				56050751193D872B00188A3D /* MyFirstApplication-Info.plist */,
 				56050752193D872B00188A3D /* InfoPlist.strings */,
 				56050755193D872B00188A3D /* main.m */,
@@ -231,6 +234,7 @@
 				56050762193D872B00188A3D /* Images.xcassets in Resources */,
 				56050754193D872B00188A3D /* InfoPlist.strings in Resources */,
 				5605075D193D872B00188A3D /* Main.storyboard in Resources */,
+				5605077F193D8B4900188A3D /* IMG_1326.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
